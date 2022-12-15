@@ -25,7 +25,7 @@ Emre TATAROĞLU
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatarogluemre&show_icons=true)  
 
-[![Github Badge](https://img.shields.io/badge/style=quare&labelColor=000&logo=Github&logoColor=white)](link)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white)]
 
 
 

@@ -3,7 +3,7 @@ Emre TATAROĞLU
 #### I am EMRE , I am QA Engineer.
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Emre+from+Turkey.;I+am+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Emre+from+Turkey.;I+am+QA+Engineer.;I+am+sharing+my+projects+in+here;)  
 ## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 
 <h3 align="left">Languages and Tools:</h3>
